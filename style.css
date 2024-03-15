@@ -1,0 +1,37 @@
+ol{
+    margin-left: 40px;
+    margin-top: 20px;
+    list-style-position: inside;
+}
+p{
+    color: red;
+}
+
+.note{
+    font-size: 20px;
+}
+
+#blue-blue{
+    color: blue;
+}
+
+#brown-brown{
+    color: brown;
+}
+
+#orange{
+    color: orange;
+}
+
+
+li[value="yellow"]{
+    color: yellow;
+}
+
+
+
+*{
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
